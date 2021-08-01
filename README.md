@@ -1,10 +1,10 @@
 # Hello I'm Poorna Jay 👋
 
-I'm a Software Engineer and I live in Australia 🇦🇺.
+I'm a full stack software engineer and I live in Australia 🇦🇺.
 
-I have created alot of Web services, native mobile applications (iOS and Android) and Web applications.
+I have created alot of scalable Web services, native mobile applications (iOS and Android) and web applications on Cloud.
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/poornajayasinghe/ "Poorna Jay's LinkedIn")
+You can reach me on [LinkedIn](https://www.linkedin.com/in/poornajayasinghe/ "Poorna Jayasinghe")
 
 <!--
 **poornaonline/poornaonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
