@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi I'm Poorna Jay 👋
+
+I'm a Software Engineer and I live in Australia 🇦🇺.
+
+I have created alot of Web services, native mobile applications (iOS and Android) and Web applications.
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/poornajayasinghe/ "Poorna Jay's LinkedIn")
 
 <!--
 **poornaonline/poornaonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
