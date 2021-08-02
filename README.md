@@ -1,6 +1,6 @@
 # Hello I'm Poorna Jay 👋👋👋
 
-I'm a full stack software engineer and I live in Australia 🇦🇺.
+## I'm a full stack software engineer and I live in Australia 🇦🇺.
 
 I have created alot of scalable Web services, native mobile applications (iOS and Android) and web applications on Cloud.
 
