@@ -2,7 +2,7 @@
 
 ## I'm a full-stack Software Engineer in Australia 🇦🇺.
 
-I have created alot of scalable Web services, mobile applications (iOS and Android) and web applications on Cloud.
+I have created alot of highly scalable web services, mobile applications, and web applications on Cloud.
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/poornajayasinghe/ "Poorna Jayasinghe")
 
