@@ -1,6 +1,6 @@
 # Hello I'm Poorna Jay 👋👋👋
 
-## I'm a full-stack Software Engineer in Australia 🇦🇺.
+## I'm a full-stack Software Engineer from Australia 🇦🇺.
 
 I have created alot of highly scalable web services, mobile applications, and web applications on Cloud.
 
